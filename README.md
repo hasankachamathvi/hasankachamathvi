@@ -1,4 +1,4 @@
-# 🌸 Hey there, I'm Hasanka! 💖
+# 🌸 Hey there, I'm Hasaa! 💖
 ### 🚀 Software Engineering Undergrad | NIBM Sri Lanka 🇱🇰
 
 ---
