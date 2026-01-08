@@ -45,15 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasankachamathvi&show_icons=true&theme=tokyonight" alt="Hasanka's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasankachamathvi&layout=compact&theme=tokyonight" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasankachamathvi&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🎀 Fun Facts
 - 🌍 Living happily in **Sri Lanka** 🇱🇰  
 - 🧩 Love puzzles, coding challenges & cute little projects  
