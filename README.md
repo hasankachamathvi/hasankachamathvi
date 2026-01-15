@@ -38,10 +38,11 @@
 ---
 
 ## 🌸 Featured Projects
-- [**Farm Management System**](https://github.com/hasankachamathvi/farm-management) – A full-stack app for farm magic 🌾✨  
-- [**Hospital Token Queue System**](https://github.com/hasankachamathvi/hospital-token) – Web queue system to keep things organized 🏥💖  
+- [**Farm Management System**](https://github.com/hasankachamathvi/farm-management) – A full‑stack app for farm magic 🌾✨  
+- [**Hospital Token Queue System**](https://github.com/hasankachamathvi/HospitalTokenSystem) – A simple web‑based hospital queue management app demonstrating token booking and priority handling using a Linked List 🏥🎟️  
 - [**Gym Management System**](https://github.com/hasankachamathvi/gym-management) – Spring Boot + Thymeleaf, keeping fitness fun 💪🌸  
-- [**Online Grocery Shopping**](https://github.com/hasankachamathvi/green-tracking) – Full-stack e-commerce with a green touch 🥦💕
+- [**Online Grocery Shopping**](https://github.com/hasankachamathvi/green-tracking) – Full‑stack e‑commerce with a green touch 🥦💕  
+- [**K‑Pop Quiz Game – Bias Battle**](https://github.com/hasankachamathvi/Bias-Battle) – Interactive K‑Pop trivia game 🎤💖 featuring multiple groups, timer, score tracking, and achievements!
 
 ---
 
